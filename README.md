@@ -2,7 +2,7 @@
 
 Submitted by: **Tri Pham**
 
-This web app: **insert description**
+This web app: **Events and Resources board for the San Jose community!**
 
 Time spent: **X** hours spent in total
 
